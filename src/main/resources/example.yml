@@ -1,0 +1,35 @@
+# This is a comment
+
+name: John
+
+names: #Comment
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: "John Doe"
+  publisher: "Acme Publishing"
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no #No, false, False
+
+string_val: "This is it's quote"
+
+colon_string: "This is a colon: one more time"
+
+include_new_lines: |
+  This is a new line
+  This is another new line
+
+ignore_new_lines: >
+  This is
+  just one long
+  string
